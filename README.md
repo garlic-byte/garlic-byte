@@ -4,4 +4,5 @@
 
 💻 AI Developer
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=garlic-byte&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+### ⭐ Total Stars
+![](https://img.shields.io/github/stars/garlic-byte?label=Total%20Stars&style=for-the-badge&color=brightgreen)
